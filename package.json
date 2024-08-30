@@ -1,5 +1,4 @@
 {
-  "homepage": "https://ashikulislamm.github.io/first_project/",
   "name": "first_project",
   "private": true,
   "version": "0.0.0",
@@ -8,9 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.3.1",
